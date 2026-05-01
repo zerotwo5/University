@@ -1,0 +1,23 @@
+class-1 Lan Configuration	: https://drive.google.com/drive/folders/1fUE57MK8MM9PY7dyXRDqdQLeK24bzYY1?usp=sharing
+
+class-2 Wan Configuration	: https://drive.google.com/drive/folders/1FLwVy-QlYHmcQJbUZEozgjmPD42Exzxq?usp=sharing
+
+class-3 Subnetting	 	: https://drive.google.com/drive/folders/1y3dV9TmCGInoe0e2j4Dq2RPlrvUk2Vqy?usp=sharing
+
+class-4 DHCP configuration	: https://drive.google.com/drive/folders/1LsxOgu3zFy4vSSfaHsffBYzt7ofJkLGH?usp=sharing
+
+class-5 Network layer		: https://drive.google.com/drive/folders/15fr5CLktAJ5iGPqR9-B0IJQMsYa9chr_?usp=sharing
+
+class-6 VLAN configuration	: https://drive.google.com/drive/folders/1i3m6LBeo946pklu0gsUcyeAxwao1SRbS?usp=sharing
+
+class-7 inter-Vlan		: https://drive.google.com/drive/folders/19Jj_vR8sK-HjGY32qTo-P7VxQfA55Kp7?usp=sharing
+
+class-8 Console-Telnet		: https://drive.google.com/drive/folders/1IYaEd3EgEUc7jRdiemCqALNOwGejj4L1?usp=sharing
+
+class-9 Transport Layer		: https://drive.google.com/drive/folders/1_9Q5xCp1SYaBF8QjbGwHwfEp77dwMAse?usp=sharing
+
+class-10 Link Aggregation	: https://drive.google.com/drive/folders/1eTa-xje3vC0Wuzq-yb1sBvxZWUFZrp2B?usp=sharing
+
+class-11 Static and Default rout: https://drive.google.com/drive/folders/1acGeKUNJ-_yiq5TAgdKw9wwCi-h6J9fP?usp=sharing
+
+class-12 Data link layer + Physical layer:	 https://drive.google.com/drive/folders/1xMNLaEv25tut0FddZ5hr0D68NY6t9_S9?usp=sharing
